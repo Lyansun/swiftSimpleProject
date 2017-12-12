@@ -79,9 +79,9 @@
 		9BD8D4931FDF902500AFAA58 = {
 			isa = PBXGroup;
 			children = (
-				9BD8D49E1FDF902500AFAA58 /* swiftSimpleProject */,
-				9BD8D4B31FDF902500AFAA58 /* swiftSimpleProjectTests */,
-				9BD8D4BE1FDF902500AFAA58 /* swiftSimpleProjectUITests */,
+				9BD8D49E1FDF902500AFAA58 /* SwiftSimpleProject */,
+				9BD8D4B31FDF902500AFAA58 /* SwiftSimpleProjectTests */,
+				9BD8D4BE1FDF902500AFAA58 /* SwiftSimpleProjectUITests */,
 				9BD8D49D1FDF902500AFAA58 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -96,7 +96,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9BD8D49E1FDF902500AFAA58 /* swiftSimpleProject */ = {
+		9BD8D49E1FDF902500AFAA58 /* SwiftSimpleProject */ = {
 			isa = PBXGroup;
 			children = (
 				9BD8D4CD1FDF904500AFAA58 /* CustomView */,
@@ -107,25 +107,25 @@
 				9BD8D4A81FDF902500AFAA58 /* LaunchScreen.storyboard */,
 				9BD8D4AB1FDF902500AFAA58 /* Info.plist */,
 			);
-			path = swiftSimpleProject;
+			path = SwiftSimpleProject;
 			sourceTree = "<group>";
 		};
-		9BD8D4B31FDF902500AFAA58 /* swiftSimpleProjectTests */ = {
+		9BD8D4B31FDF902500AFAA58 /* SwiftSimpleProjectTests */ = {
 			isa = PBXGroup;
 			children = (
 				9BD8D4B41FDF902500AFAA58 /* swiftSimpleProjectTests.swift */,
 				9BD8D4B61FDF902500AFAA58 /* Info.plist */,
 			);
-			path = swiftSimpleProjectTests;
+			path = SwiftSimpleProjectTests;
 			sourceTree = "<group>";
 		};
-		9BD8D4BE1FDF902500AFAA58 /* swiftSimpleProjectUITests */ = {
+		9BD8D4BE1FDF902500AFAA58 /* SwiftSimpleProjectUITests */ = {
 			isa = PBXGroup;
 			children = (
 				9BD8D4BF1FDF902500AFAA58 /* swiftSimpleProjectUITests.swift */,
 				9BD8D4C11FDF902500AFAA58 /* Info.plist */,
 			);
-			path = swiftSimpleProjectUITests;
+			path = SwiftSimpleProjectUITests;
 			sourceTree = "<group>";
 		};
 		9BD8D4CD1FDF904500AFAA58 /* CustomView */ = {
@@ -218,7 +218,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9BD8D4971FDF902500AFAA58 /* Build configuration list for PBXProject "swiftSimpleProject" */;
+			buildConfigurationList = 9BD8D4971FDF902500AFAA58 /* Build configuration list for PBXProject "SwiftSimpleProject" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -476,7 +476,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swiftSimpleProject.app/swiftSimpleProject";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftSimpleProject.temp_caseinsensitive_rename.app/SwiftSimpleProject.temp_caseinsensitive_rename";
 			};
 			name = Debug;
 		};
@@ -492,7 +492,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swiftSimpleProject.app/swiftSimpleProject";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftSimpleProject.temp_caseinsensitive_rename.app/SwiftSimpleProject.temp_caseinsensitive_rename";
 			};
 			name = Release;
 		};
@@ -529,7 +529,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9BD8D4971FDF902500AFAA58 /* Build configuration list for PBXProject "swiftSimpleProject" */ = {
+		9BD8D4971FDF902500AFAA58 /* Build configuration list for PBXProject "SwiftSimpleProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9BD8D4C21FDF902500AFAA58 /* Debug */,
